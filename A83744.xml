@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Kings Most Excellent Majesty from the Commons of England assembled in Parliament, in ansvver of His Maiesties gracious letter to that House. Monday May 14, 1660. Ordered by the Commons in Parliament assembled, that this letter be forthwith printed and published. VVill. Jessop clerk of the Commons of the House of Parliament.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83744</idno><idno type="EEBO-CITATION">99872080</idno>
+  <idno type="VID">169331</idno>
+  <idno type="EEBO-PROQUEST">2264187823</idno>
+  
+            <idno type="STC">Wing E2622</idno>
+            <idno type="STC">Thomason E1075_2</idno>
+            <idno type="STC">ESTC R25070</idno>
+            <idno type="PROQUEST">99872080</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872080e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169331)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1075[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Kings Most Excellent Majesty from the Commons of England assembled in Parliament, in ansvver of His Maiesties gracious letter to that House. Monday May 14, 1660. Ordered by the Commons in Parliament assembled, that this letter be forthwith printed and published. VVill. Jessop clerk of the Commons of the House of Parliament.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husbands and Thomas Newcomb, printers to the Commons House of Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Wing.</note>
+                  <note>A reply to: King Charles II.  Two letters from his Majesty (Wing [2nd ed.] C3624).</note>
+                  <note>Annotation on Thomason copy: "May. 17".</note>
+                  <note>Title ornament; initial letter; text in blackletter.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (Early English books) and in the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1660-1685 : Charles II).</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169331:1"/>
+            <p>A LETTER To the KINGS most Excellent Majesty FROM The Commons of ENGLAND Assembled in Parliament, IN ANSWER Of His MAIESTIES Gracious LETTER to that House.</p>
+            <figure>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other used as a printer's device</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Monday May 14, 1660.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons in Parliament Assembled, That this Letter be forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>VVill. Jessop Clerk of the Commons House of Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husbands</hi> and <hi>Thomas Newcomb,</hi> Printers to the Commons House of Parliament.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:169331:2"/>
+            <pb n="1" facs="tcp:169331:2"/>
+            <head>A LETTER To the KINGS most Excellent Majesty From the Commons of England Assembled i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament, in ANSWER of his MAJE<g ref="char:EOLhyphen"/>STIES gracious LETTER, to that House</head>
+            <opener>
+               <salute>Most Royal SOVERAIGN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E your Majesties most Loyal Subjects, the Com<g ref="char:EOLhyphen"/>mons of England Assem<g ref="char:EOLhyphen"/>bled in Parliament, Do with all humbleness, pre<g ref="char:EOLhyphen"/>sent unto your Majesty, the unfained thankfulness of our hearts, for those gracious expressions of piety, and goodness, and love, to Vs, and the Nations under your Dominion, which your Majesties Letter of 4/14 of <hi>April,</hi> dated from <hi>Breda,</hi> together with the Declaration enclosed in it, of the same date, do so evident<g ref="char:EOLhyphen"/>ly containe; for which we do in the first place look up to the great King of Kings, and bless his Name, who hath put these thoughts into the heart of our King, to make Him Glorious in the eyes of His peo<g ref="char:EOLhyphen"/>ple, as those great Deliverances, which that Divine Majesty hath afforded unto your Royal Person from many dangers, and the Support which he hath given unto your
+<pb n="2" facs="tcp:169331:3"/> Heroick, and Princely minde, under various Trials, make it appeare to all the World, that you are Precious in his sight.</p>
+            <p>And give us leave to say, That as your Majesty is pleased to Declare your Confi<g ref="char:EOLhyphen"/>dence in Parliaments, your Esteem of them, and this your judgement and Character of them▪ <hi>That they are so necessary for the Govern<g ref="char:EOLhyphen"/>ment of the Kingdom, that neither Prince▪ nor peo<g ref="char:EOLhyphen"/>ple, can be in any tolerable Degree happy, without them;</hi> and therefore say, <hi>That you will hearken unto their Councels, be tender of their Priviledges, and careful to preserve, and Protect them;</hi> So We trust, and will with all Humility be bold to affirm, That your Majesty will not be De<g ref="char:EOLhyphen"/>ceived in us, and that we will never Depart from that fidelity, which we owe unto your Majesty, that zeal which we bear unto your Service, and a Constant endeavour to advance your Honor, and Greatness.</p>
+            <p>And we beseech your Majesty we may adde this further, for the vindication of Par<g ref="char:EOLhyphen"/>liaments, and even of the last Parliament, Convened under your Royal Father of hap<g ref="char:EOLhyphen"/>py Memory; <hi>When</hi> (as your Majesty well observes) <hi>through mistakes, and misunderstand<g ref="char:EOLhyphen"/>ings, many Inconveniences were produced, which were not intended:</hi> That those very Incon<g ref="char:EOLhyphen"/>veniences could not have been brought upon us by those persons, who had designed them without first violating the Parliament it self; for they well knew, it was not possible to do a violence to that Sacred Person, whilst the Parliament which had vowed, and Covenanted for the Defence, and safety of that Person remained entire. Surely <hi>Sir,</hi>
+               <pb n="3" facs="tcp:169331:3"/> as the Persons of our Kings have ever been Dear unto Parliaments, so we cannot think of that horrid Act, committed against the precious Life of Our late Soveraign, but with such a detestation, and abhorren<g ref="char:EOLhyphen"/>cy as we want words to express it.</p>
+            <p>And next to wishing it had never been, we wish it may never be remembred by Your Majesty, to be unto you an occasion of sor<g ref="char:EOLhyphen"/>row, as it will never be remembred by us, but with that grief, and trouble of minde, which it deserves, being the greatest reproach that ever was incurred, by any of the Eng<g ref="char:EOLhyphen"/>lish Nation, an offence to all the Protestant Churches abroad, and a scandal to the pro<g ref="char:EOLhyphen"/>fession of the truth of Religion here at home; though both Profession, and true Professors, and the Nation it self, as well as the Parliament, were most innocent of it, having been onely the contrivance, and Act of some few ambitious, and bloody persons, and such others, as by their influence were misled.</p>
+            <p>And as we hope, and pray, That God will not impute the guilt of it, nor of all the evil consequences thereof unto the Land, whose Divine Iustice never involves the guiltless with the guilty, so we cannot but give due Praise to your Majesties goodness, who are pleased to entertain such reconciled, and re<g ref="char:EOLhyphen"/>conciling thoughts, and with them, not onely meet, but as it were prevent your Parliament and People, proposing your Self, in a great measure, and inviting the Parliament to consider further, and ad<g ref="char:EOLhyphen"/>vise your Majesty, what may be necessary,
+<pb n="4" facs="tcp:169331:4"/> to restore the Nation to what it hath lost, raise up again the Bancks and Fences of it, and make the Kingdoms happy, by the ad<g ref="char:EOLhyphen"/>vancement of Religion, the securing of our Laws▪ Liberties, and Estates, and the re<g ref="char:EOLhyphen"/>moving of all Iealousies and Animosities, which may render our Peace less certain, and durable; wherein your Majesty gives a large evidence of your great Wisdome, Iudging aright, that after so high a di<g ref="char:EOLhyphen"/>stemper, and such an universal shaking of the very Foundations, great care must be had to repair the Breaches, and much cir<g ref="char:EOLhyphen"/>cumspection and industry used, to provide things necessary for the strengthning of those Repairs, and preventing whatever may disturb, and weaken them.</p>
+            <p>We shall immediatly apply our selves to the preparing of these things, and in a very short time, we hope, be able to present them unto your Majesty; And for the present do, with all humble thankfulness, acknowledge your Grace, and favor, in assuring us of your Royal Concurrence with us, and saying, <hi>That we shall not expect any thing from you, but what you will be as ready to give, as we to receive.</hi> And we cannot doubt of your Majesties ef<g ref="char:EOLhyphen"/>fectual performance, since your own Prince<g ref="char:EOLhyphen"/>ly Iudgement hath prompted unto you the necessity of Doing such things, and your piety, and goodness hath carried you to a Free tender of them to your faithful Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>You speak, as a Gracious King, and we will do what befits, Dutiful, Loving, and Loyal Subjects, who are yet more ingaged
+<pb n="5" facs="tcp:169331:4"/> to Honor, and highly Esteem your Majesty, for <hi>Your Declining</hi> (as you are pleased to say) <hi>all Forraign assistance, and rather trust to your peo<g ref="char:EOLhyphen"/>ple,</hi> who, we do assure your Majesty, will, and Do open their Armes, and their hearts to receive You, and will spare neither their Estates, nor their lives, when your service shall require it of them.</p>
+            <p>And we have yet more cause to enlarge our praises, and our prayers to God for your Majesty, that you have continued unshaken in your Faith, That neither the temptation of allurements, perswasions, and promises, from seducing Papists on the one hand, nor the persecution, and hard usage from some seduced, and misguided Professors of the Protestant Religion, on the other hand, could at all prevail upon your Majesty to make you forsake the Rock of Israel, the God of your Fathers, the true Protestant Religion, in which your Majesty hath been bred; but you have still been as a Rock your self, firm to your Covenant with your and our God, even now expressing your zeal, and affection for the Protestant Religion; and your care, and Study for the propagation thereof: This hath been a rejoycing of heart to all the faithful of the Land, and an assu<g ref="char:EOLhyphen"/>rance to them, that God would not forsake you, but after many trials, which should but make you more Precious, as gold out of the fire, restore your Majesty unto your Pa<g ref="char:EOLhyphen"/>trimony, and people, with more Splendor, and Dignity, and make you the Glory of Kings, and the Ioy of your Subjects, which is, and shall ever be the prayer of your
+<pb n="6" facs="tcp:169331:5"/> Majesties most Loyal Subjects, the Com<g ref="char:EOLhyphen"/>mons of England assembled in Parlia<g ref="char:EOLhyphen"/>ment,</p>
+            <closer>
+               <signed>Signed by the Order, and in the Name of your MAjESTIES Subjects the Commons of England Assembled in Parliament. HAR. GRIMSTON, Speaker of the Commons House of Parliament.</signed>
+               <dateline>VVestminster, <date>2 May, 1660.</date>
+               </dateline>
+            </closer>
+            <trailer>
+               <hi>Superscribed,</hi> To the <hi>KINGS</hi> most Excellent <hi>Majesty.</hi>
+            </trailer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Monday May 14, 1660.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons in Parliament Assem<g ref="char:EOLhyphen"/>bled, That this Letter be forthwith Printed and Published.</p>
+            <closer>
+               <signed>W: JESSOP Clerk of the Commons House of Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husbands</hi> and <hi>Thomas Newcomb,</hi> Printers to the Commons House of Parliament.</p>
+            <pb facs="tcp:169331:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
